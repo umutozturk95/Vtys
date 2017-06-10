@@ -6,4 +6,5 @@ Proje Php ve Oracle kullanılarak yapılan bir web sitesidir.Bu teknolojiler yan
 Kısaca projenin konusu yazarlar,blog yazıları ve kullanıcılar bulunmaktadır.Bu kullanıcılar yorum yapabilmekte ve blog yazısı beğenmektedir.
 Yazarlar admin görevinde bulunmaktadır.Kullanıcı ekleyebilmekte ,engelleyebilmekte ve blog yazısı ekleyebilmektedir.Kısaca bu şekilde bir projedir.
 
+Ayrıca program klasörü içinde bir adet masaüstü veri tabanı yönetim modülü bulunmaktadır.Bu modül adeta Oracle sql developer'a benzemektedir.Projelerde kullanılan tüm sql kodları ve ER diagramları bulunmaktadır.Bu sayede projedeki kullanılan yapıların ilişkileri ortaya çıkacaktır.
 İyi çalışmalar...
